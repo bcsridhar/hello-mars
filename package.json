@@ -1,0 +1,28 @@
+{
+  "name": "trip-to-mars",
+  "version": "1.0.0",
+  "description": "Say hello to mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "author": "Sridara BC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcsridhar/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "bugs": {
+    "url": "https://github.com/bcsridhar/hello-mars/issues"
+  },
+  "homepage": "https://github.com/bcsridhar/hello-mars#readme"
+}
